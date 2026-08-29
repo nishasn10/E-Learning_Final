@@ -1,1 +1,1 @@
-E-Learning recommendation project
+E-Learning Recommendation Engine project
